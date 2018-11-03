@@ -9,3 +9,5 @@
 4. Enjoy!
 
 **Note**: Images and Trigger Word Detection dataset are not available at this time.
+
+*It is not guaranteed that solutions provided here are correct or optimal. Please only use these notebooks as a reference and a different point of view or approach to the introduced problems.*
